@@ -36,7 +36,7 @@ __5.Web基础__
 * json：了解一下什么是json（http://www.w3school.com.cn/json/）
 * servlet：工作原理解析（http://www.ibm.com/developerworks/cn/java/j-lo-servlet/#ibm-pcon），慕课网视频（JAVA遇见HTML-JSP篇）
 * JSP：慕课网课程（JAVA遇见HTML-JSP篇、JSP常用标签）
-* Jdbc：慕课网课程（JDBC之“对面女孩看过”、JDBC之”对面女孩走过来）
+* Jdbc：慕课网课程（JDBC之“对面女孩看过来”、JDBC之”对面女孩走过来）
 
 __6.Framework__
 * Spring
