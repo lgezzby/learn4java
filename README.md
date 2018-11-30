@@ -33,7 +33,7 @@ __4.MySQL数据库__
 __5.Web基础__
 
 * http
-* json：了解一下什么是json（http://www.w3school.com.cn/json/ ）
+* json：了解一下什么是json（http://www.w3school.com.cn/json/index.asp ）
 * servlet：工作原理解析（http://www.ibm.com/developerworks/cn/java/j-lo-servlet/#ibm-pcon ），慕课网视频（JAVA遇见HTML-JSP篇）
 * JSP：慕课网课程（JAVA遇见HTML-JSP篇、JSP常用标签）
 * Jdbc：慕课网课程（JDBC之“对面女孩看过来”、JDBC之”对面女孩走过来）
