@@ -28,13 +28,13 @@ Google Guava官方教程（中文版）http://ifeve.com/google-guava/
 __4.MySQL数据库__
 
 学习数据库的基础  
-推荐资料：慕课网（http://www.imooc.com/）数据库分类下，课程名称：与MySQL数据库的零距离接触
+推荐资料：慕课网（http://www.imooc.com/ ）数据库分类下，课程名称：与MySQL数据库的零距离接触
 
 __5.Web基础__
 
 * http
-* json：了解一下什么是json（http://www.w3school.com.cn/json/）
-* servlet：工作原理解析（http://www.ibm.com/developerworks/cn/java/j-lo-servlet/#ibm-pcon），慕课网视频（JAVA遇见HTML-JSP篇）
+* json：了解一下什么是json（http://www.w3school.com.cn/json/ ）
+* servlet：工作原理解析（http://www.ibm.com/developerworks/cn/java/j-lo-servlet/#ibm-pcon ），慕课网视频（JAVA遇见HTML-JSP篇）
 * JSP：慕课网课程（JAVA遇见HTML-JSP篇、JSP常用标签）
 * Jdbc：慕课网课程（JDBC之“对面女孩看过来”、JDBC之”对面女孩走过来）
 
