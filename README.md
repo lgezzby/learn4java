@@ -1,7 +1,7 @@
 自学大纲&内容
 =
 __1.Tools__
-* Linux：在线课程：网易云课堂（Linux入门基础），图书：Linux命令行与Shell脚本变成大全（编程部分）、鸟哥Linux私房菜基础篇
+* Linux：在线课程：网易云课堂（Linux入门基础），图书：Linux命令行与Shell脚本编程大全（编程部分）、鸟哥Linux私房菜基础篇
 * IntelliJ IDEA（熟悉IDEA的操作)
 * Git
 * Maven
